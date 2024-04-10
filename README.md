@@ -1,8 +1,5 @@
 # Hello, I'm Zach Warunek
 
-I am a Software Engineer attending Kettering University.
+I work at X as a software engineer
 
-## Key Sites
-[Zachary Warunek - Portfolio](https://zacharywarunek.com)<br>
-[Multiplayer Wordle](http://cs351frontend.herokuapp.com/)<br>
-[Pathfinding Visualizer](https://pathfindingvisualizer.net)
+[X Profile](https://x.com/ZachWarunek)
